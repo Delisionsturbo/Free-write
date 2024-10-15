@@ -17,7 +17,7 @@ This application is a file management tool that allows users to load directories
 - .NET Framework (if applicable, specify version)
 
 ## Installation
-1. Download the installer from the [releases](https://github.com/Delisionsturbo/free-write/releases/tag/v1.0) section of this repository.
+1. Download the installer from the main page.
 2. Run the installer (`free-write-installer.exe`) and follow the on-screen instructions to install the application.
 3. Once installed, you can launch the application from the Start Menu or desktop shortcut.
 
