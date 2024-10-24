@@ -11,6 +11,7 @@ This application is a file management tool that allows users to load directories
 - Configuration editor
 - Clean configuration
 - Create new files
+- Theme editor
 
 ## Requirements
 - Windows operating system (for the provided installer)
